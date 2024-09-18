@@ -1,2 +1,2 @@
-# prophetml_git
+# ProphetML models
  Predicting NFL & CFB Winners
